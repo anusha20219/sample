@@ -8,4 +8,5 @@ To check the given arrays are equal or not.
 To check sum of even numbers divisible by 3.
 
 #program 4
+To check the sum of numbers divisible by 3.
 
