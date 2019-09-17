@@ -11,7 +11,9 @@ To check sum of even numbers divisible by 3.
 To check the sum of numbers divisible by 3.
 
 #program 5
+
 MICRO AND ARRAY UPDATE
+
 Micro purchased an array A having N integer values. After playing it for a while, he got bored of it and decided to update value of its element. In one second he can increase value of each array element by 1. He wants each array element's value to become greater than or equal to K. Please help Micro to find out the minimum amount of time it will take, for him to do so.
 
 Input:
@@ -36,7 +38,10 @@ SAMPLE INPUT
 SAMPLE OUTPUT 
 3
 0
+
+
 #program 6
+
 HAMILTONIAN AND LAGRANGIAN
 
 Students have become secret admirers of SEGP. They find the course exciting and the professors amusing. After a superb Mid Semester examination its now time for the results. The TAs have released the marks of students in the form of an array, where arr[i] represents the marks of the ith student.
@@ -59,8 +64,12 @@ SAMPLE INPUT
 16 17 4 3 5 2
 SAMPLE OUTPUT 
 17 5 2
+
+
 #program 7
+
 PINK FLOYD AND HAPPINESS
+
 Pink is sad because of some reasons, he wants to cheer up by listening to some songs from his favourite band, Pink Floyd.
 
 There are N records and Pink will be happy if he listens to them in the ascending order, i.e, first the song No. 1, then No.2 and so on(He has to listen to all the N songs to become Happy).
@@ -89,8 +98,12 @@ SAMPLE INPUT
 1 2 4 3 5
 SAMPLE OUTPUT 
 Happy
+
+
 #program 8
+
 FRUSTRATED CODERS
+
 There are N frustrated coders standing in a circle with a gun in their hands. Each coder has a skill value S[ i ] and he can only kill those coders that have strictly less skill than him. One more thing, all the guns have only 1 bullet. This roulette can take place in any random order. Fortunately, you have the time stone (haaan wo harre wala) and you can see all possible outcomes of this scenario. Find the outcome where the total sum of the remaining coder's skill is minimum. Print this sum.
 
 INPUT
