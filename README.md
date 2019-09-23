@@ -181,7 +181,8 @@ CONSTRAINTS
 
 SAMPLE INPUT 
 
-4 2
+4 
+2
 
 R Y G Y
 
