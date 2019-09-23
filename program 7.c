@@ -15,14 +15,18 @@ int main()
 {
     int i,j,k,p,l,t,n;
     scanf(" %d",&n);
-    for(i=0;i<n;i++){
+    for(i=0;i<n;i++)
+    {
         scanf(" %d",&num[i]);
     }
-    for(i=0,j=1;i<n;i++){
+    for(i=0,j=1;i<n;i++)
+    {
         if(num[i]>j)push(num[i]);
-        else if(num[i]==j){
+        else if(num[i]==j)
+        {
             j++;
-            while(top!=-1 && stack[top]==j){
+            while(top!=-1 && stack[top]==j)
+            {
                 pop();
                 j++;
             }
