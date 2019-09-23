@@ -2,11 +2,11 @@
  
 int n, k;
 int arr[100005];
-int temp[100005];//plus
-int answer = 0;//ans
-int sum = 0;//plus
-int a = 0; //head
-int b = 0; //tail
+int temp[100005];
+int answer = 0;
+int sum = 0;
+int a = 0; 
+int b = 0; 
 int main() {
 	scanf("%d %d", &n, &k);
 	for (int i = 1; i <= n; i++) {
