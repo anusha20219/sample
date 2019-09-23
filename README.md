@@ -29,12 +29,15 @@ Constraints:
 1<=N<=10^5
 1<=A[i],K<=1^6
 
+
 SAMPLE INPUT 
 2
 3 4
 1 2 5
 3 2
 2 5 5
+
+
 SAMPLE OUTPUT 
 3
 0
