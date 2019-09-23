@@ -31,20 +31,17 @@ Constraints:
 
 
 SAMPLE INPUT 
+
 2
-
 3 4
-
 1 2 5
 
 3 2
-
 2 5 5
 
-
 SAMPLE OUTPUT 
-3
 
+3
 0
 
 
