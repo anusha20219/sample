@@ -69,10 +69,14 @@ Constraints
 1 <= n <= 1000000
 0 <= arr[i] <= 10000
 
-SAMPLE INPUT 
+SAMPLE INPUT
+
 6
+
 16 17 4 3 5 2
-SAMPLE OUTPUT 
+
+SAMPLE OUTPUT
+
 17 5 2
 
 
@@ -103,10 +107,14 @@ CONSTRAINTS
 1<=N<=10^5
 
 The array consists of 1-N distinct numbers.
-SAMPLE INPUT 
+SAMPLE INPUT
+
 5
+
 1 2 4 3 5
+
 SAMPLE OUTPUT 
+
 Happy
 
 
@@ -133,9 +141,13 @@ CONSTRAINTS
 1<=S[ i ]<=1000
 
 SAMPLE INPUT 
+
 6
+
 1 7 2 2 4 4
-SAMPLE OUTPUT 
+
+SAMPLE OUTPUT
+
 11
 
 
@@ -164,9 +176,12 @@ CONSTRAINTS
 1<=N, K<=100000
 
 SAMPLE INPUT 
+
 4 2
+
 R Y G Y
 
 
 SAMPLE OUTPUT 
+
 5
