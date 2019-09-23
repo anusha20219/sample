@@ -1,18 +1,18 @@
-#program 1
+# program 1
 To check whether the given strings are anagram or not.
 
-#program 2 
+# program 2 
 To check the given arrays are equal or not.
 
-#program 3
+# program 3
 To check sum of even numbers divisible by 3.
 
-#program 4
+# program 4
 To check the sum of numbers divisible by 3.
 
-#program 5
+# program 5
 
-MICRO AND ARRAY UPDATE
+# MICRO AND ARRAY UPDATE
 
 Micro purchased an array A having N integer values. After playing it for a while, he got bored of it and decided to update value of its element. In one second he can increase value of each array element by 1. He wants each array element's value to become greater than or equal to K. Please help Micro to find out the minimum amount of time it will take, for him to do so.
 
@@ -40,9 +40,9 @@ SAMPLE OUTPUT
 0
 
 
-#program 6
+# program 6
 
-HAMILTONIAN AND LAGRANGIAN
+# HAMILTONIAN AND LAGRANGIAN
 
 Students have become secret admirers of SEGP. They find the course exciting and the professors amusing. After a superb Mid Semester examination its now time for the results. The TAs have released the marks of students in the form of an array, where arr[i] represents the marks of the ith student.
 
@@ -66,9 +66,9 @@ SAMPLE OUTPUT
 17 5 2
 
 
-#program 7
+# program 7
 
-PINK FLOYD AND HAPPINESS
+# PINK FLOYD AND HAPPINESS
 
 Pink is sad because of some reasons, he wants to cheer up by listening to some songs from his favourite band, Pink Floyd.
 
@@ -100,9 +100,9 @@ SAMPLE OUTPUT
 Happy
 
 
-#program 8
+# program 8
 
-FRUSTRATED CODERS
+# FRUSTRATED CODERS
 
 There are N frustrated coders standing in a circle with a gun in their hands. Each coder has a skill value S[ i ] and he can only kill those coders that have strictly less skill than him. One more thing, all the guns have only 1 bullet. This roulette can take place in any random order. Fortunately, you have the time stone (haaan wo harre wala) and you can see all possible outcomes of this scenario. Find the outcome where the total sum of the remaining coder's skill is minimum. Print this sum.
 
@@ -129,9 +129,9 @@ SAMPLE OUTPUT
 11
 
 
-#program 9
+# program 9
 
-HACKER AND TRAFFIC LIGHTS
+# HACKER AND TRAFFIC LIGHTS
 
 Zolo is stuck in a traffic due to dysfunctional traffic light. Zolo is a professional hacker and he can get into the system and change the state of the light. His planet has different types of traffic lights such that there are N bulbs on the traffic board and only when all of them are green(G) the cars can pass. there are 2 other states also which the bulb can show; i.e. Red(R) & Yellow(Y). Note that the lights are designed such that they follow a state change cyclic pattern as follows:
 
