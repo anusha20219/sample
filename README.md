@@ -77,7 +77,11 @@ SAMPLE INPUT
 
 SAMPLE OUTPUT
 
-17 5 2
+17
+
+5
+
+2
 
 
 # program 7
